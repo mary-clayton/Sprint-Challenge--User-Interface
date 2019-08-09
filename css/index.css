@@ -66,6 +66,26 @@ p {
     line-height: 1.4;
 }
 
+/* end */
+nav {
+display: flex;
+}
+header {
+    display: flex;
+    padding: 2%;
+
+}
+.navlinks {
+padding: 5%;
+color: black;
+text-decoration: none;
+font-size: 13px;
+}
+
+.image {
+
+}
+/* Dont mark beyond point */
 .container {
     width: 800px;
     margin: 0 auto;
