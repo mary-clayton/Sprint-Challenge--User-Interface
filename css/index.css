@@ -85,7 +85,8 @@ font-size: 13px;
 }
 
 .image {
-padding:
+width: 100%;
+padding: 5%;
 }
 /* Lambda School's mark up */
 .container {
@@ -126,12 +127,15 @@ padding:
 .middle-content .boxes .box {
     width: 12.5%;
     height: 100px;
-    background:teal;
+    background: black;
     margin: 20px 2.5%;
     color: white;
     display: flex;
     align-items: center;
     justify-content: center;
+}
+.box1 {
+    background-color: teal;
 }
 
 .bottom-content {
